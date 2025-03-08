@@ -18,15 +18,22 @@ with tab1:
     st.markdown('## :green[5. Educação e entretenimento:] Robôs para ensinar e entreter.')
     st.markdown('## :green[6. Segurança:] Robôs de patrulha e monitoramento.')
 
-with tab2:
-    st.title('problemas no dia a dia:')
-    st.markdown('## :red[1. Desemprego:] A automação pode substituir empregos humanos, principalmente indústrias e serviços manuais.')
-    st.markdown('## :red[2. Alto custo inicial:] O desenvolvimento e implementação de robôs podem ser caros, principalmente a pequenas empresas e indivíduos.')
-    st.markdown('## :red[3. Dependência excessiva da tecnologia:] A sociedade ficar excessivamente dependente da tecnologia.')
-    st.markdown('## :red[4. Falhas técnicas e segurança:] Os robôs podem ser vulneraveis a falhas ou ataques cibernéticos, comprometendo a segurança e a eficiência.')
-    st.markdown('## :red[5. Educação e entretenimento:] Robôs para ensinar e entreter.')
-    st.markdown('## :red[6. Segurança:] Robôs de patrulha e monitoramento.')
-
+with tab2:   
+    tab3, tab4 = st.tabs(['problemas', 'soluções'])
+    with tab3:
+        st.title('problema dos robôs no dia a dia:')
+        st.markdown('## :red[1. Desemprego:] A automação pode substituir empregos humanos, principalmente indústrias e serviços manuais.')
+        st.markdown('## :red[2. Alto custo inicial:] O desenvolvimento e implementação de robôs podem ser caros, principalmente a pequenas empresas e indivíduos.')
+        st.markdown('## :red[3. Dependência excessiva da tecnologia:] A sociedade ficar excessivamente dependente da tecnologia.')
+        st.markdown('## :red[4. Falhas técnicas e segurança:] Os robôs podem ser vulneraveis a falhas ou ataques cibernéticos, comprometendo a segurança e a eficiência.')
+        st.markdown('## :red[5. Falta de Empatia e Humanização:] Robôs podem ser eficazes mas não possuem empatia ou emoção, oque pode prejudica áreas como atendimento ao cliente e cuidados com idosos.')
+    with tab4:
+        st.title('as soluções pra esses pronlemas:')
+        st.markdown('## :red[1. Desemprego:] A solução desse problema seria envestir em educação e qualificação para que os trabalhadores possam atuar em novas áreas, como programação, inteligência artificial e manutenção de robôs.')
+        st.markdown('## :red[2. Alto custo inicial:] A solução desse problema poderia ser incentivos governamentais e avanços tecnológicos que podem tornar os robôs mais acessíveis ao longo do tempo. Além disso, modelos de aluguel ou compartilhamento podem ser uma alternativa.')
+        st.markdown('## :red[3. Dependência excessiva da tecnologia:] A solução pra esse problema seria manter um equilibrio entre o uso da tecnologia e da capacidade humana de realizar tarefas de forma manual quando necessário.')
+        st.markdown('## :red[4. Falhas técnicas e segurança:] A solção pra esse problema seria investir em segurança cibernética , atualizações constantes e manutenção preventiva para garantir bom funcionamento.')
+        st.markdown('## :red[5. Falta de Empatia e Humanização:] A solução pra esse problema seria melhorar a inteligência artificial para que os robôs passem a agir de maneira mais natural e complementar a atuação humana.')
 
 
 st.sidebar.image('lasalle.png')
