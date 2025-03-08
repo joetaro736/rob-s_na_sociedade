@@ -32,7 +32,7 @@ with tab2:
         st.markdown('## :red[1. Desemprego:] A solução desse problema seria envestir em educação e qualificação para que os trabalhadores possam atuar em novas áreas, como programação, inteligência artificial e manutenção de robôs.')
         st.markdown('## :red[2. Alto custo inicial:] A solução desse problema poderia ser incentivos governamentais e avanços tecnológicos que podem tornar os robôs mais acessíveis ao longo do tempo. Além disso, modelos de aluguel ou compartilhamento podem ser uma alternativa.')
         st.markdown('## :red[3. Dependência excessiva da tecnologia:] A solução pra esse problema seria manter um equilibrio entre o uso da tecnologia e da capacidade humana de realizar tarefas de forma manual quando necessário.')
-        st.markdown('## :red[4. Falhas técnicas e segurança:] A solção pra esse problema seria investir em segurança cibernética , atualizações constantes e manutenção preventiva para garantir bom funcionamento.')
+        st.markdown('## :red[4. Falhas técnicas e segurança:] A solução pra esse problema seria investir em segurança cibernética , atualizações constantes e manutenção preventiva para garantir bom funcionamento.')
         st.markdown('## :red[5. Falta de Empatia e Humanização:] A solução pra esse problema seria melhorar a inteligência artificial para que os robôs passem a agir de maneira mais natural e complementar a atuação humana.')
 
 
