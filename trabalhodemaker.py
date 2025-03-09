@@ -13,7 +13,7 @@ with tab1:
     st.title('Os robôs realmente podem ajudar muito:')
     st.markdown('## :green[1. Casas inteligentes:] Robôs de limpeza e assistentes virtuais para a automação de tarefas.')
     st.markdown('## :green[2. Saúde:] Robôs auxiliando em cirurgias e no cuidado das pessoas.')
-    st.markdown('## :green[3. Transporte:] Carros autônomos e drones par entregas.')
+    st.markdown('## :green[3. Transporte:] Carros autônomos e drones para entregas.')
     st.markdown('## :green[4. Indústrias:] Robôs em fábricas e no comércio, aumentando a produtividade.')
     st.markdown('## :green[5. Educação e entretenimento:] Robôs para ensinar e entreter.')
     st.markdown('## :green[6. Segurança:] Robôs de patrulha e monitoramento.')
