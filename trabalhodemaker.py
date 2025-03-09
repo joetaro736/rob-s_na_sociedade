@@ -43,5 +43,5 @@ with tab2:
         st.markdown('## :red[5. Indústria de tecnologia:] enfrenta desafios com falhas tecnológicas e inovações constantes.')
 
 st.sidebar.image('lasalle.png')
-st.sidebar.title('Robôs na sociedade')
-st.sidebar.write('Alunos: Joe Paulino, Maria Helena, Guilherme Simões, Gustavo de Melo Margoni e Rebeca Rueda')
+st.sidebar.title('Robôs na sociedade sexto ano')
+st.sidebar.write('Alunos: Joe Paulino, Maria Helena, Guilherme Simões, Gustavo de Melo Margoni e Rebeca Marques Rueda')
